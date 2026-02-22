@@ -28,7 +28,7 @@ Me chamo Maicon Silva Albert, tenho 26 anos e sou natural de Ariquemen Rondonia.
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/[SEU_USUARIO]?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Mayconalbet?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Mayconalbert?tab=followers">
