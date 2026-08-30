@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 **` Desenvolvimento Web`**
 
-Me chamo Maicon Silva Albert, tenho 26 anos e sou natural de Ariquemen Rondonia. Trabalho como técnico  de rede e sou apaixonado por tecnologia. Escolhi migrar para a área de desenvolvimento web e estou cada dia mais fascinado por essa nova jornada que estou descobrindo. Concluí a faculdade de Análise e Desenvolvimento de Sistemas (EAD) e atualmente estou focado em aprender HTML, CSS e JavaScript, criando projetos práticos para consolidar meus conhecimentos. 
+Me chamo Maicon Silva Albert, tenho 26 anos e sou morador de Ariquemen Rondonia. Trabalho como técnico  de rede e sou apaixonado por tecnologia. Escolhi migrar para a área de desenvolvimento web e estou cada dia mais fascinado por essa nova jornada que estou descobrindo. Concluí a faculdade de Análise e Desenvolvimento de Sistemas (EAD) e atualmente estou focado em aprender HTML, CSS e JavaScript, criando projetos práticos para consolidar meus conhecimentos. 
 
 **Próximos passos:** Tenho interesse em expandir meus estudos para **banco de dados**, **segurança da informação** e **redes de computadores**.
 
